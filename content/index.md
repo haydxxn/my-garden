@@ -1,6 +1,8 @@
 ---
-title: Welcome to Quartz
+title: post.md
+date: 2026-04-25
+tags:
+  - seed
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is my garden where I put all my thoughts, notes, writings in there.
